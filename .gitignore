@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+pytorch_openpose/model/model_pth.zip
+caffe_openpose/models.rar
+caffe_openpose/windows.rar
